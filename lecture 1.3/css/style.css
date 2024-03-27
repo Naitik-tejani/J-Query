@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    color:black;
+    font-size:15px;
+    margin: 10px;
+}
+ .main .box{
+    width: 100px;;
+    height: 100px;
+    box-shadow: 0 0 5px 4px black;
+    margin: 20px;
+ }
+ .edit{
+    background-color: bisque;
+ }
